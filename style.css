@@ -1,0 +1,39 @@
+main {
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+}
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin: 3em 0 1em;
+  font-family: 'EB Garamond', serif;
+}
+
+p,ul,ol {
+  margin-bottom: 2em;
+  color: #1d1d1d;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.testimonial {
+  margin-bottom: 2em;
+  color: #1d1d1d;
+  font-family: 'Roboto Mono', 'monospace';
+}
+
+.circle {
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  border-radius: 50%;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+}
+
